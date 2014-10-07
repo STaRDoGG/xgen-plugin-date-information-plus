@@ -4,13 +4,13 @@
 
 Displays WordPress plugin LastUpdated, Last Installed, Last Activated &amp; Last Deactivated timestamps in columns on the plugins page.
 
-This is a fork of Xgen Plugin Date Information with some fixes and additions by me. You can simply overwrite the files already in that folder via FTP if you have the plugin already installed, or install it manually as you would any other WordPress plugin.
+This is a fork of Xgen Plugin Date Information (https://wordpress.org/plugins/xgen-date-information) with some fixes and additions by me. You can simply overwrite the files already in that folder via FTP if you have the plugin already installed, or install it manually as you would any other WordPress plugin.
 
 ## Screenshots ##
 
-![Autotagging your content !](http://s.wordpress.org/extend/plugins/simple-tags/screenshot-2.png)
+![Example of the WordPress Plugins Page !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/xgen-Plugin-Date-Information-Example-GeekDrop.jpg)
 
-![Autotagging your content !](http://s.wordpress.org/extend/plugins/simple-tags/screenshot-2.png)
+![The Settings Page !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/xgen-Plugin-Date-Information-Settings-GeekDrop.jpg)
 
 ## ChangeLog ##
 
@@ -21,5 +21,3 @@ This is a fork of Xgen Plugin Date Information with some fixes and additions by 
 	* Some English corrections, as the original author is from India and I'm from the U.S., to make things a bit clearer.
 	* Some style and display formatting changes.
 	* Many code formatting changes (not visible to non-developers).
-
-
