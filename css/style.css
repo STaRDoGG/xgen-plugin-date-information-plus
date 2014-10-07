@@ -1,0 +1,17 @@
+.sepbar			{border-top:2px solid lightgrey; margin-top:10px;}
+.width_100	{width:100%;}
+.width_20		{width:20%;}
+.width_80		{width:80%;}
+.fl					{float:left;}
+
+.custom_select_tag {
+	padding:5px 8px !important;
+	height:30px !important;
+}
+
+.custom_select_tag option {border-radius:2px;}
+
+.custom_textbox {
+	width:250px;
+	border-radius:5px;
+}
