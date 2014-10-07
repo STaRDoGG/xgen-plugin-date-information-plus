@@ -2,14 +2,25 @@
 
 **Tested up to:** WordPress 4.0
 
-Displays WordPress plugin LastUpdated, Last Installed, Last Activated &amp; Last Deactivated timestamps in columns on the plugins page.
+## Description ##
 
-This is a fork of Xgen Plugin Date Information (https://wordpress.org/plugins/xgen-date-information) with some fixes and additions by me. You can simply overwrite the files already in that folder via FTP if you have the plugin already installed, or install it manually as you would any other WordPress plugin.
+Displays WordPress plugin Latest Update, Last Installed, Last Activated &amp; Last Deactivated timestamps in columns on the plugins page. Great for helping to determine if a certain plugin recently installed is causing a problem, amongst many other uses.
+
+## Information ##
+
+This is a fork of Xgen Plugin Date Information (https://wordpress.org/plugins/xgen-date-information) with some fixes and additions by me.
+
+## Installation ##
+
+If you have the plugin already installed you can simply overwrite the files already in that folder on your server via FTP, or install it manually as you would any other WordPress plugin. As of now this is the only place you can check for updates to this version, as I am not going to make a WordPress page for it. Sorry!
 
 ## Screenshots ##
 
+**Example of the WordPress Plugins Page**
 ![Example of the WordPress Plugins Page !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/xgen-Plugin-Date-Information-Example-GeekDrop.jpg)
 
+
+**The Settings Page**
 ![The Settings Page !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/xgen-Plugin-Date-Information-Settings-GeekDrop.jpg)
 
 ## ChangeLog ##
