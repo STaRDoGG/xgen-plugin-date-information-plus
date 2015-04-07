@@ -17,14 +17,14 @@ If you have the plugin already installed you can simply overwrite the files alre
 ## Screenshots ##
 
 **Example of the WordPress Plugins Page**
-![Example of the WordPress Plugins Page !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/xgen-Plugin-Date-Information-Example-GeekDrop.jpg)
+![Example of the WordPress Plugins Page !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/screenshots/xgen-Plugin-Date-Information-Example-GeekDrop.jpg)
 
 
 **The Settings Page**
-![The Settings Page !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/xgen-Plugin-Date-Information-Settings-GeekDrop.jpg)
+![The Settings Page !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/screenshots/xgen-Plugin-Date-Information-Settings-GeekDrop.jpg)
 
 **Compact View**
-![Compact View !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/xgen-Plugin-Date-Information-Compact-View-GeekDrop.png)
+![Compact View !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/screenshots/xgen-Plugin-Date-Information-Compact-View-GeekDrop.png)
 
 ## ChangeLog ##
 
