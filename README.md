@@ -23,8 +23,14 @@ If you have the plugin already installed you can simply overwrite the files alre
 **The Settings Page**
 ![The Settings Page !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/xgen-Plugin-Date-Information-Settings-GeekDrop.jpg)
 
+**Compact View**
+![Compact View !](https://github.com/STaRDoGG/xgen-plugin-date-information-plus/blob/master/xgen-Plugin-Date-Information-Compact-View-GeekDrop.png)
+
 ## ChangeLog ##
 
+* 1.3
+    * Added in "Compact View" option.
+    * Formatted the Settings page slightly.
 * Initial release: 1.1 to 1.2
 	* Fixed the CSS style sheet not working. That path was coded wrong.
 	* Moved the Menu to the plugin's settings page off of the main WordPress menu and placed it as a subitem of the regular WordPress Setting's menu. This makes things look more organized and reduces plugin clutter.
